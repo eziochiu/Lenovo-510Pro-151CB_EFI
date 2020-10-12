@@ -1,0 +1,202 @@
+13:594  1:760  Found BIOS RSDP at F00D0
+13:594  0:000  Printing ACPI tables from RSDP F00D0 ...
+13:594  0:000   F00D0: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+13:594  0:000    (Xsdt: 9DEB40B8, Rsdt: 9DEB4028)
+13:594  0:000    9DEB40B8: 'XSDT', 'TC-O3Q', Rev: 1, Len: 236
+13:594  0:000    9DEB4028: 'RSDT', 'TC-O3Q', Rev: 1, Len: 136
+13:594  0:000    Tables in Xsdt: 25
+13:594  0:000    0. 9DEFD620: 'FACP', 'TC-O3Q', Rev: 6, Len: 276
+13:594  0:000        (Dsdt: 9DEB4230, Facs: 9E3C2080, XDsdt: 9DEB4230, XFacs: 0)
+13:594  0:000        9DEB4230: 'DSDT', 'TC-O3Q', Rev: 2, Len: 300013
+13:599  0:004        9E3C2080: 'FACS', Ver: 2, Len: 64
+13:599  0:000    1. 9DEFD738: 'APIC', 'TC-O3Q', Rev: 4, Len: 160
+13:599  0:000    2. 9DEFD7D8: 'FPDT', 'TC-O3Q', Rev: 1, Len: 68
+13:599  0:000    3. 9DEFD820: 'FIDT', 'TC-O3Q', Rev: 1, Len: 156
+13:599  0:000    4. 9DEFD8C0: 'MCFG', 'TC-O3Q', Rev: 1, Len: 60
+13:599  0:000    5. 9DEFD900: 'SSDT', 'TC-O3Q', Rev: 2, Len: 6940
+13:599  0:000    6. 9DEFF420: 'SLIC', 'TC-O3Q', Rev: 1, Len: 374
+13:599  0:000    7. 9DEFF598: 'MSDM', 'TC-O3Q', Rev: 3, Len: 85
+13:599  0:000    8. 9DEFF5F0: 'SSDT', 'TC-O3Q', Rev: 2, Len: 12742
+13:599  0:000    9. 9DF027B8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 9041
+13:599  0:000    10. 9DF04B10: 'HPET', 'TC-O3Q', Rev: 1, Len: 56
+13:599  0:000    11. 9DF04B48: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7169
+13:599  0:000    12. 9DF06750: 'SSDT', 'TC-O3Q', Rev: 2, Len: 4014
+13:599  0:000    13. 9DF07700: 'UEFI', 'TC-O3Q', Rev: 1, Len: 66
+13:599  0:000    14. 9DF07748: 'LPIT', 'TC-O3Q', Rev: 1, Len: 92
+13:599  0:000    15. 9DF077A8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 10206
+13:599  0:000    16. 9DF09F88: 'SSDT', 'TC-O3Q', Rev: 2, Len: 5346
+13:599  0:000    17. 9DF0B470: 'DBGP', 'TC-O3Q', Rev: 1, Len: 52
+13:599  0:000    18. 9DF0B4A8: 'DBG2', 'TC-O3Q', Rev: 0, Len: 84
+13:599  0:000    19. 9DF0B500: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7015
+13:599  0:000    20. 9DF0D068: 'DMAR', 'TC-O3Q', Rev: 1, Len: 112
+13:599  0:000    21. 9DF0D0D8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 324
+13:599  0:000    22. 9DF0D220: 'BGRT', 'TC-O3Q', Rev: 1, Len: 56
+13:599  0:000    23. 9DF0D258: 'LUFT', 'TC-O3Q', Rev: 1, Len: 215522
+13:599  0:000    24. 9DF41C40: 'WSMT', 'TC-O3Q', Rev: 1, Len: 40
+13:599  0:000    Tables in Rsdt: 25
+13:599  0:000    0. 9DEB41A8: 'FACP', 'TC-O3Q', Rev: 2, Len: 132
+13:599  0:000        (Dsdt: 9DEB4230, Facs: 9E3C2040)
+13:599  0:000        9DEB4230: 'DSDT', 'TC-O3Q', Rev: 2, Len: 300013
+13:603  0:004        9E3C2040: 'FACS', Ver: 0, Len: 64
+13:603  0:000    1. 9DEFD738: 'APIC', 'TC-O3Q', Rev: 4, Len: 160
+13:603  0:000    2. 9DEFD7D8: 'FPDT', 'TC-O3Q', Rev: 1, Len: 68
+13:603  0:000    3. 9DEFD820: 'FIDT', 'TC-O3Q', Rev: 1, Len: 156
+13:603  0:000    4. 9DEFD8C0: 'MCFG', 'TC-O3Q', Rev: 1, Len: 60
+13:603  0:000    5. 9DEFD900: 'SSDT', 'TC-O3Q', Rev: 2, Len: 6940
+13:603  0:000    6. 9DEFF420: 'SLIC', 'TC-O3Q', Rev: 1, Len: 374
+13:603  0:000    7. 9DEFF598: 'MSDM', 'TC-O3Q', Rev: 3, Len: 85
+13:603  0:000    8. 9DEFF5F0: 'SSDT', 'TC-O3Q', Rev: 2, Len: 12742
+13:603  0:000    9. 9DF027B8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 9041
+13:603  0:000    10. 9DF04B10: 'HPET', 'TC-O3Q', Rev: 1, Len: 56
+13:603  0:000    11. 9DF04B48: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7169
+13:603  0:000    12. 9DF06750: 'SSDT', 'TC-O3Q', Rev: 2, Len: 4014
+13:603  0:000    13. 9DF07700: 'UEFI', 'TC-O3Q', Rev: 1, Len: 66
+13:603  0:000    14. 9DF07748: 'LPIT', 'TC-O3Q', Rev: 1, Len: 92
+13:603  0:000    15. 9DF077A8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 10206
+13:603  0:000    16. 9DF09F88: 'SSDT', 'TC-O3Q', Rev: 2, Len: 5346
+13:603  0:000    17. 9DF0B470: 'DBGP', 'TC-O3Q', Rev: 1, Len: 52
+13:603  0:000    18. 9DF0B4A8: 'DBG2', 'TC-O3Q', Rev: 0, Len: 84
+13:603  0:000    19. 9DF0B500: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7015
+13:603  0:000    20. 9DF0D068: 'DMAR', 'TC-O3Q', Rev: 1, Len: 112
+13:603  0:000    21. 9DF0D0D8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 324
+13:603  0:000    22. 9DF0D220: 'BGRT', 'TC-O3Q', Rev: 1, Len: 56
+13:603  0:000    23. 9DF0D258: 'LUFT', 'TC-O3Q', Rev: 1, Len: 215522
+13:603  0:000    24. 9DF41C40: 'WSMT', 'TC-O3Q', Rev: 1, Len: 40
+13:603  0:000  Found UEFI Acpi 2.0 RSDP at 9DEB4000
+13:603  0:000  Saving ACPI tables from RSDP 9DEB4000 to EFI\CLOVER\ACPI\origin ...
+13:603  0:000   9DEB4000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+13:745  0:141    (Xsdt: 9DEB40B8, Rsdt: 9DEB4028)
+13:745  0:000    9DEB40B8: 'XSDT', 'TC-O3Q', Rev: 1, Len: 236 -> XSDT.aml
+13:826  0:081    9DEB4028: 'RSDT', 'TC-O3Q', Rev: 1, Len: 136 -> RSDT.aml
+13:909  0:082    Tables in Xsdt: 25
+13:909  0:000    0. 9DEFD620: 'FACP', 'TC-O3Q', Rev: 6, Len: 276 -> FACP.aml
+13:992  0:082        (Dsdt: 9DEB4230, Facs: 9E3C2080, XDsdt: 9DEB4230, XFacs: 0)
+13:992  0:000        9DEB4230: 'DSDT', 'TC-O3Q', Rev: 2, Len: 300013 -> DSDT.aml
+14:145  0:153        9E3C2080: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+14:234  0:088    1. 9DEFD738: 'APIC', 'TC-O3Q', Rev: 4, Len: 160 -> APIC.aml
+14:322  0:088    2. 9DEFD7D8: 'FPDT', 'TC-O3Q', Rev: 1, Len: 68 -> FPDT.aml
+14:411  0:088    3. 9DEFD820: 'FIDT', 'TC-O3Q', Rev: 1, Len: 156 -> FIDT.aml
+14:500  0:089    4. 9DEFD8C0: 'MCFG', 'TC-O3Q', Rev: 1, Len: 60 -> MCFG.aml
+14:589  0:088    5. 9DEFD900: 'SSDT', 'TC-O3Q', Rev: 2, Len: 6940 -> SSDT-0-TC-O3Q.aml (Found hidden SSDT 9 pcs)
+14:679  0:089        * 9DE6A298: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1508  53 53 44 54 E4 05 00 00 02 37 50 6D 52 65 66 00 Internal length = 1508 -> SSDT-x0_0-Cpu0Ist.aml
+14:801  0:122        * 9DE62018: 'SSDT', 'ApIst', Rev: 2, Len: 1532  53 53 44 54 FC 05 00 00 02 23 50 6D 52 65 66 00 Internal length = 1532 -> SSDT-x0_1-ApIst.aml
+14:883  0:082        * 9DE62698: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1024  53 53 44 54 00 04 00 00 02 D9 50 6D 52 65 66 00 Internal length = 1024 -> SSDT-x0_2-Cpu0Cst.aml
+14:966  0:082        * 9DE63A98: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 E9 50 6D 52 65 66 00 Internal length = 778 -> SSDT-x0_3-ApCst.aml
+15:047  0:081        * 9DE6AA98: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 283  53 53 44 54 1B 01 00 00 02 61 50 6D 52 65 66 00 Internal length = 283 -> SSDT-x0_4-Cpu0Hwp.aml
+15:130  0:082        * 9DE60018: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 E3 50 6D 52 65 66 00 Internal length = 791 -> SSDT-x0_5-ApHwp.aml
+15:239  0:109        * 9DE63018: 'SSDT', 'HwpLvt', Rev: 2, Len: 1828  53 53 44 54 24 07 00 00 02 CA 50 6D 52 65 66 00 Internal length = 1828 -> SSDT-x0_6-HwpLvt.aml
+15:322  0:082        * 9DE6A918: 'SSDT', 'Cpu0Psd', Rev: 2, Len: 244  53 53 44 54 F4 00 00 00 02 37 50 6D 52 65 66 00 Internal length = 244 -> SSDT-x0_7-Cpu0Psd.aml
+15:404  0:082        * 9DE61018: 'SSDT', 'ApPsd', Rev: 2, Len: 2736  53 53 44 54 B0 0A 00 00 02 AB 50 6D 52 65 66 00 Internal length = 2736 -> SSDT-x0_8-ApPsd.aml
+15:487  0:082  
+15:487  0:000    6. 9DEFF420: 'SLIC', 'TC-O3Q', Rev: 1, Len: 374 -> SLIC.aml
+15:569  0:082    7. 9DEFF598: 'MSDM', 'TC-O3Q', Rev: 3, Len: 85 -> MSDM.aml
+15:651  0:082    8. 9DEFF5F0: 'SSDT', 'TC-O3Q', Rev: 2, Len: 12742 -> SSDT-1-TC-O3Q.aml
+15:734  0:083    9. 9DF027B8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 9041 -> SSDT-2-TC-O3Q.aml
+15:844  0:109    10. 9DF04B10: 'HPET', 'TC-O3Q', Rev: 1, Len: 56 -> HPET.aml
+15:935  0:090    11. 9DF04B48: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7169 -> SSDT-3-TC-O3Q.aml
+16:033  0:098    12. 9DF06750: 'SSDT', 'TC-O3Q', Rev: 2, Len: 4014 -> SSDT-4-TC-O3Q.aml
+16:122  0:088    13. 9DF07700: 'UEFI', 'TC-O3Q', Rev: 1, Len: 66 -> UEFI.aml
+16:210  0:088    14. 9DF07748: 'LPIT', 'TC-O3Q', Rev: 1, Len: 92 -> LPIT.aml
+16:300  0:089    15. 9DF077A8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 10206 -> SSDT-5-TC-O3Q.aml
+16:389  0:089    16. 9DF09F88: 'SSDT', 'TC-O3Q', Rev: 2, Len: 5346 -> SSDT-6-TC-O3Q.aml
+16:512  0:123    17. 9DF0B470: 'DBGP', 'TC-O3Q', Rev: 1, Len: 52 -> DBGP.aml
+16:594  0:081    18. 9DF0B4A8: 'DBG2', 'TC-O3Q', Rev: 0, Len: 84 -> DBG2.aml
+16:677  0:082    19. 9DF0B500: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7015 -> SSDT-7-TC-O3Q.aml
+16:758  0:081    20. 9DF0D068: 'DMAR', 'TC-O3Q', Rev: 1, Len: 112 -> DMAR.aml
+16:842  0:083    21. 9DF0D0D8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 324 -> SSDT-8-TC-O3Q.aml
+16:925  0:082    22. 9DF0D220: 'BGRT', 'TC-O3Q', Rev: 1, Len: 56 -> BGRT.aml
+17:006  0:081    23. 9DF0D258: 'LUFT', 'TC-O3Q', Rev: 1, Len: 215522 -> LUFT.aml
+17:112  0:105    24. 9DF41C40: 'WSMT', 'TC-O3Q', Rev: 1, Len: 40 -> WSMT.aml
+17:200  0:088    Tables in Rsdt: 25
+17:200  0:000    0. 9DEB41A8: 'FACP', 'TC-O3Q', Rev: 2, Len: 132 -> RSDT-FACP.aml
+17:289  0:088        (Dsdt: 9DEB4230, Facs: 9E3C2040)
+17:289  0:000        9DEB4230: 'DSDT', 'TC-O3Q', Rev: 2, Len: 300013
+17:293  0:004        9E3C2040: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+17:417  0:123    1. 9DEFD738: 'APIC', 'TC-O3Q', Rev: 4, Len: 160
+17:417  0:000    2. 9DEFD7D8: 'FPDT', 'TC-O3Q', Rev: 1, Len: 68
+17:417  0:000    3. 9DEFD820: 'FIDT', 'TC-O3Q', Rev: 1, Len: 156
+17:417  0:000    4. 9DEFD8C0: 'MCFG', 'TC-O3Q', Rev: 1, Len: 60
+17:417  0:000    5. 9DEFD900: 'SSDT', 'TC-O3Q', Rev: 2, Len: 6940
+17:417  0:000    6. 9DEFF420: 'SLIC', 'TC-O3Q', Rev: 1, Len: 374
+17:417  0:000    7. 9DEFF598: 'MSDM', 'TC-O3Q', Rev: 3, Len: 85
+17:417  0:000    8. 9DEFF5F0: 'SSDT', 'TC-O3Q', Rev: 2, Len: 12742
+17:417  0:000    9. 9DF027B8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 9041
+17:417  0:000    10. 9DF04B10: 'HPET', 'TC-O3Q', Rev: 1, Len: 56
+17:417  0:000    11. 9DF04B48: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7169
+17:417  0:000    12. 9DF06750: 'SSDT', 'TC-O3Q', Rev: 2, Len: 4014
+17:417  0:000    13. 9DF07700: 'UEFI', 'TC-O3Q', Rev: 1, Len: 66
+17:417  0:000    14. 9DF07748: 'LPIT', 'TC-O3Q', Rev: 1, Len: 92
+17:417  0:000    15. 9DF077A8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 10206
+17:417  0:000    16. 9DF09F88: 'SSDT', 'TC-O3Q', Rev: 2, Len: 5346
+17:417  0:000    17. 9DF0B470: 'DBGP', 'TC-O3Q', Rev: 1, Len: 52
+17:417  0:000    18. 9DF0B4A8: 'DBG2', 'TC-O3Q', Rev: 0, Len: 84
+17:417  0:000    19. 9DF0B500: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7015
+17:417  0:000    20. 9DF0D068: 'DMAR', 'TC-O3Q', Rev: 1, Len: 112
+17:417  0:000    21. 9DF0D0D8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 324
+17:417  0:000    22. 9DF0D220: 'BGRT', 'TC-O3Q', Rev: 1, Len: 56
+17:417  0:000    23. 9DF0D258: 'LUFT', 'TC-O3Q', Rev: 1, Len: 215522
+17:417  0:000    24. 9DF41C40: 'WSMT', 'TC-O3Q', Rev: 1, Len: 40
+17:417  0:000  Found UEFI Acpi 1.0 RSDP at 9DEB4000
+17:417  0:000  Printing ACPI tables from RSDP 9DEB4000 ...
+17:417  0:000   9DEB4000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+17:417  0:000    (Xsdt: 9DEB40B8, Rsdt: 9DEB4028)
+17:417  0:000    9DEB40B8: 'XSDT', 'TC-O3Q', Rev: 1, Len: 236
+17:417  0:000    9DEB4028: 'RSDT', 'TC-O3Q', Rev: 1, Len: 136
+17:417  0:000    Tables in Xsdt: 25
+17:417  0:000    0. 9DEFD620: 'FACP', 'TC-O3Q', Rev: 6, Len: 276
+17:417  0:000        (Dsdt: 9DEB4230, Facs: 9E3C2080, XDsdt: 9DEB4230, XFacs: 0)
+17:417  0:000        9DEB4230: 'DSDT', 'TC-O3Q', Rev: 2, Len: 300013
+17:421  0:004        9E3C2080: 'FACS', Ver: 2, Len: 64
+17:421  0:000    1. 9DEFD738: 'APIC', 'TC-O3Q', Rev: 4, Len: 160
+17:421  0:000    2. 9DEFD7D8: 'FPDT', 'TC-O3Q', Rev: 1, Len: 68
+17:421  0:000    3. 9DEFD820: 'FIDT', 'TC-O3Q', Rev: 1, Len: 156
+17:421  0:000    4. 9DEFD8C0: 'MCFG', 'TC-O3Q', Rev: 1, Len: 60
+17:421  0:000    5. 9DEFD900: 'SSDT', 'TC-O3Q', Rev: 2, Len: 6940
+17:421  0:000    6. 9DEFF420: 'SLIC', 'TC-O3Q', Rev: 1, Len: 374
+17:421  0:000    7. 9DEFF598: 'MSDM', 'TC-O3Q', Rev: 3, Len: 85
+17:421  0:000    8. 9DEFF5F0: 'SSDT', 'TC-O3Q', Rev: 2, Len: 12742
+17:421  0:000    9. 9DF027B8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 9041
+17:421  0:000    10. 9DF04B10: 'HPET', 'TC-O3Q', Rev: 1, Len: 56
+17:421  0:000    11. 9DF04B48: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7169
+17:421  0:000    12. 9DF06750: 'SSDT', 'TC-O3Q', Rev: 2, Len: 4014
+17:421  0:000    13. 9DF07700: 'UEFI', 'TC-O3Q', Rev: 1, Len: 66
+17:421  0:000    14. 9DF07748: 'LPIT', 'TC-O3Q', Rev: 1, Len: 92
+17:421  0:000    15. 9DF077A8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 10206
+17:421  0:000    16. 9DF09F88: 'SSDT', 'TC-O3Q', Rev: 2, Len: 5346
+17:421  0:000    17. 9DF0B470: 'DBGP', 'TC-O3Q', Rev: 1, Len: 52
+17:421  0:000    18. 9DF0B4A8: 'DBG2', 'TC-O3Q', Rev: 0, Len: 84
+17:421  0:000    19. 9DF0B500: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7015
+17:421  0:000    20. 9DF0D068: 'DMAR', 'TC-O3Q', Rev: 1, Len: 112
+17:421  0:000    21. 9DF0D0D8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 324
+17:421  0:000    22. 9DF0D220: 'BGRT', 'TC-O3Q', Rev: 1, Len: 56
+17:421  0:000    23. 9DF0D258: 'LUFT', 'TC-O3Q', Rev: 1, Len: 215522
+17:421  0:000    24. 9DF41C40: 'WSMT', 'TC-O3Q', Rev: 1, Len: 40
+17:421  0:000    Tables in Rsdt: 25
+17:421  0:000    0. 9DEB41A8: 'FACP', 'TC-O3Q', Rev: 2, Len: 132
+17:421  0:000        (Dsdt: 9DEB4230, Facs: 9E3C2040)
+17:421  0:000        9DEB4230: 'DSDT', 'TC-O3Q', Rev: 2, Len: 300013
+17:426  0:004        9E3C2040: 'FACS', Ver: 0, Len: 64
+17:426  0:000    1. 9DEFD738: 'APIC', 'TC-O3Q', Rev: 4, Len: 160
+17:426  0:000    2. 9DEFD7D8: 'FPDT', 'TC-O3Q', Rev: 1, Len: 68
+17:426  0:000    3. 9DEFD820: 'FIDT', 'TC-O3Q', Rev: 1, Len: 156
+17:426  0:000    4. 9DEFD8C0: 'MCFG', 'TC-O3Q', Rev: 1, Len: 60
+17:426  0:000    5. 9DEFD900: 'SSDT', 'TC-O3Q', Rev: 2, Len: 6940
+17:426  0:000    6. 9DEFF420: 'SLIC', 'TC-O3Q', Rev: 1, Len: 374
+17:426  0:000    7. 9DEFF598: 'MSDM', 'TC-O3Q', Rev: 3, Len: 85
+17:426  0:000    8. 9DEFF5F0: 'SSDT', 'TC-O3Q', Rev: 2, Len: 12742
+17:426  0:000    9. 9DF027B8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 9041
+17:426  0:000    10. 9DF04B10: 'HPET', 'TC-O3Q', Rev: 1, Len: 56
+17:426  0:000    11. 9DF04B48: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7169
+17:426  0:000    12. 9DF06750: 'SSDT', 'TC-O3Q', Rev: 2, Len: 4014
+17:426  0:000    13. 9DF07700: 'UEFI', 'TC-O3Q', Rev: 1, Len: 66
+17:426  0:000    14. 9DF07748: 'LPIT', 'TC-O3Q', Rev: 1, Len: 92
+17:426  0:000    15. 9DF077A8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 10206
+17:426  0:000    16. 9DF09F88: 'SSDT', 'TC-O3Q', Rev: 2, Len: 5346
+17:426  0:000    17. 9DF0B470: 'DBGP', 'TC-O3Q', Rev: 1, Len: 52
+17:426  0:000    18. 9DF0B4A8: 'DBG2', 'TC-O3Q', Rev: 0, Len: 84
+17:426  0:000    19. 9DF0B500: 'SSDT', 'TC-O3Q', Rev: 2, Len: 7015
+17:426  0:000    20. 9DF0D068: 'DMAR', 'TC-O3Q', Rev: 1, Len: 112
+17:426  0:000    21. 9DF0D0D8: 'SSDT', 'TC-O3Q', Rev: 2, Len: 324
+17:426  0:000    22. 9DF0D220: 'BGRT', 'TC-O3Q', Rev: 1, Len: 56
+17:426  0:000    23. 9DF0D258: 'LUFT', 'TC-O3Q', Rev: 1, Len: 215522
+17:426  0:000    24. 9DF41C40: 'WSMT', 'TC-O3Q', Rev: 1, Len: 40
