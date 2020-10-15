@@ -5,26 +5,7 @@
 	<key>files</key>
 	<dict/>
 	<key>files2</key>
-	<dict>
-		<key>PlugIns/AirPortBrcm4360_Injector.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			RJ2ZUOQ9JKN7Eoc8o4TuLgLxEXU=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"49f05751cbfda6ba640bea88ab47654cf1fea459" or cdhash H"449d9950e43d24a37b12873ca384ee2e02f11175"</string>
-		</dict>
-		<key>PlugIns/AirPortBrcmNIC_Injector.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			gY9v/IYm2fVX+81mH/Auci+WCdk=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"a6c5b0e18fa98c533c3f7c1736b091db32200656" or cdhash H"818f6ffc8626d9f557fbcd661ff02e722f9609d9"</string>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^Resources/</key>
